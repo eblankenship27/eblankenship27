@@ -1,7 +1,8 @@
-## Hello there 👋, I'm Evan Blankenship
+## Hello there 👋 I'm Evan Blankenship
 
 ### 👨‍💼 About me :
-- 
+-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/evanblankenship27)
 
 <!--
 **eblankenship27/eblankenship27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
