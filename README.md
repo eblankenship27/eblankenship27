@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [eblankenship27.github.io](eblankenship27.github.io)
+<!-- 👨‍💻 All of my projects are available at [eblankenship27.github.io](eblankenship27.github.io) -->
 
 - 📫 How to reach me **blankenship.e@northeastern.edu**
 
